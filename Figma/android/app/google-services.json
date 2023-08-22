@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "977252719187",
+    "project_id": "figma-724f6",
+    "storage_bucket": "figma-724f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977252719187:android:e54a21327cba366ec544a6",
+        "android_client_info": {
+          "package_name": "com.example.figma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977252719187-d5q8ksgrh062671s14bb7rmt0aku891b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.figma",
+            "certificate_hash": "ac231d9ac63493ac090bda9c50c45eec0eb37219"
+          }
+        },
+        {
+          "client_id": "977252719187-qup201p5fko0kp3jimaofk31j62ig5d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_KIsY8cgt6YqYI74Y9bjrQfAXE1WcFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977252719187-96n13972j9ngrdkgveikvenomovbcdcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977252719187-0nckgi8l4lgh1qeiv4p5ngvu2agploe5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.figma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
