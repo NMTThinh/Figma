@@ -72,4 +72,5 @@ tạo màn hình lựa chọn, hiển thị tài khoản đã đăng ký
 #22/8 4 tiếng
 chưa xong shared preferencespreferences
         
-    
+#23/8 3 tiếng
+xong shared preferencespreferences
